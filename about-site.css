@@ -14,10 +14,10 @@ body {
 
 .side-border {
     position: fixed;
-    top: 0;
+    top: -20px;
     width: 160px;           
-    height: 100vh;
-    background-image: url("border-image.png");
+    height: 120vh;
+    background-image: url("border-image-3.png");
     background-repeat: repeat-y;
     background-size: cover;
     z-index: 1;
