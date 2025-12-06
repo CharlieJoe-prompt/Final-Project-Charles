@@ -72,6 +72,19 @@ body {
     color: white;
 }
 
+/* current tab */
+
+.current-tab {
+    background: rgb(0, 79, 129);
+    padding: 10px 18px;
+    border-radius: 8px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border: 2px solid rgb(0, 79, 129);
+    transition: 0.2s;
+}
+
 /* vertical chapter sidebar */
 
 .chapter-nav {
