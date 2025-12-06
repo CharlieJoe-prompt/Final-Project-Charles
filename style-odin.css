@@ -131,7 +131,6 @@ main {
 /* article styling */
 
 article {
-    background: rgba(255, 255, 255, 0.25);
     padding: 10px;
     border-radius: 10px;
     line-height: 1.6;
